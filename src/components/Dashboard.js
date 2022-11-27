@@ -41,7 +41,7 @@ const Dashboard = () => {
 
 
   useEffect(() => {
-    handleGet(1, 20)
+    handleGet(1, 1000)
   }, [])
 
   // sort
